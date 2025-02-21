@@ -40,6 +40,12 @@ ul{
     max-width:100%;
     
 }
+.name{
+    color: #10174d;
+    font-weight: 900;
+    font-size: 38px;
+    font-family: "orbitron", "goudy bookletter 1911";
+}
 .service{
     display: flex;
     align-items: center;
@@ -64,11 +70,3 @@ ul{
     height: 300px;
     border-radius: 10px;
 }
-=======
-.name{
-    color: #10174d;
-    font-weight: 900;
-    font-size: 38px;
-    font-family: "orbitron", "goudy bookletter 1911";
-}
-
