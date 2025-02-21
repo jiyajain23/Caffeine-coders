@@ -1,3 +1,6 @@
 .fl{
     display: flex;
 }
+.br{
+    border-radius: 20px;
+}
