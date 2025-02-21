@@ -1,3 +1,19 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
+:root{
+    --a:#222a68;
+    --b:#574ae2;
+    --c:#654597;
+    --d:#ab81cd;
+    --e:#e2adf2;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 13px;
+}
+.ord{
+    border: none;
+    
+}
